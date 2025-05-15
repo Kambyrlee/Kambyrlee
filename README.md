@@ -20,5 +20,10 @@ Languages I know:
 - 🐍 Python
 - ☕ Java
 - 🌐 HTML / CSS
+- 🔎 SQL
+
+Languages I'm learning:
+- 📜 Javascript
+- 🔵 C
 
 🎮 I'm really interested in video game development and am currently working on my own indie game.
