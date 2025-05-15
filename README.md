@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on my software engineering degree, on track to graduate in 2025.
+
+Languages I know:
+- 🐍 Python
+- ☕ Java
+- 🌐 HTML / CSS
+
+🎮 I'm really interested in video game development and am currently working on my own indie game.
