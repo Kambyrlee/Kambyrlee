@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on my software engineering degree, on track to graduate in 2025.
+🔭 I’m currently working on my software engineering degree, on track to graduate in 2025. I have a deep passion for technology and its constant evolution. I thrive on learning new skills, exploring innovative solutions, and solving the intricate puzzles that software development presents.
 
 Languages I know:
 - 🐍 Python
